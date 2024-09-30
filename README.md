@@ -8,7 +8,9 @@
 - View the list of recorded items in a user-friendly table.
 - Conditional formatting for better visual distinction between income and expenses.
 
-![User Interface](expense_tracker_ui.png)
+  ### User Interface
+
+  ![User Interface](expense_tracker_ui.png)
 
 ## Tech Stack
 
